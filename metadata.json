@@ -1,0 +1,5 @@
+{
+  "name": "Xcode Asset Generator",
+  "description": "Instantly generate Xcode-compatible AppIcon sets and Image Sets from a single source image, complete with Contents.json.",
+  "requestFramePermissions": []
+}

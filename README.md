@@ -35,33 +35,6 @@ A powerful web-based tool to instantly generate production-ready assets for iOS,
 - **ZIP Generation**: JSZip
 - **File Handling**: FileSaver.js
 
-## Getting Started
-
-### Prerequisites
-
-- Node.js (v18 or higher recommended)
-- npm or yarn
-
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/asset-generator.git
-   cd asset-generator
-   ```
-
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-
-3. Start the development server:
-   ```bash
-   npm run dev
-   ```
-
-4. Open your browser and navigate to `http://localhost:5173`.
-
 ## License
 
 MIT
